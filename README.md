@@ -141,7 +141,7 @@ cd java-mini-projects/01-basic/calculator
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/aarti-gore-07b2202aa](https://linkedin.com/in/aarti-gore-07b2202aa) |
+| 💼 LinkedIn | [linkedin.com/in/gore-aarti](https://linkedin.com/in/ore-aarti) |
 | 🐙 GitHub | [github.com/Aartigore14](https://github.com/Aartigore14) |
 | 💻 LeetCode | [leetcode.com/aartigore](https://leetcode.com/aartigore) |
 | 🏆 HackerRank | [hackerrank.com/profile/aartigore2005](https://hackerrank.com/profile/aartigore2005) |

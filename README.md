@@ -47,8 +47,8 @@ java-mini-projects/
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
 | 01 | [Calculator](./01-basic/Calculator/) | Classes, Methods, Switch, OOP | ✅ Complete |
-| 02 | [Student Grade Tracker](./01-basic/student-grade-tracker/) | ArrayList, Loops, Scanner, Methods | 🔄 In Progress |
-| 03 | [Bank Account System](./01-basic/bank-account-system/) | Inheritance, Encapsulation, Exception Handling | 🔜 Upcoming |
+| 02 | [Student Grade Tracker](./01-basic/student-grade-tracker/) | ArrayList, Loops, Scanner, Methods | ✅ Complete |
+| 03 | [Bank Account System](./01-basic/bank-account-system/) | Inheritance, Encapsulation, Exception Handling | 🔄 In Progress  |
 
 ---
 

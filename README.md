@@ -46,9 +46,9 @@ java-mini-projects/
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 01 | [Calculator](./01-basic/Calculator/) | Classes, Methods, Switch, OOP | ✅ Complete |
-| 02 | [Student Grade Tracker](./01-basic/student-grade-tracker/) | ArrayList, Loops, Scanner, Methods | ✅ Complete |
-| 03 | [Bank Account System](./01-basic/bank-account-system/) | Inheritance, Encapsulation, Exception Handling | ✅ Complete   |
+| 01 | [Calculator] | Classes, Methods, Switch, OOP | ✅ Complete |
+| 02 | [Student Grade Tracker] | ArrayList, Loops, Scanner, Methods | ✅ Complete |
+| 03 | [Bank Account System]| Inheritance, Encapsulation, Exception Handling | ✅ Complete   |
 
 ---
 
@@ -56,9 +56,9 @@ java-mini-projects/
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 04 | [Library Management System](./02-intermediate/library-management-system/) | HashMap, File I/O, OOP Design | 🔄 In Progress |
-| 05 | [Inventory Tracker](./02-intermediate/inventory-tracker/) | Collections, Generics, Sorting | 🔜 Upcoming |
-| 06 | [Student Management CRUD](./02-intermediate/student-management-crud/) | JDBC, MySQL, SQL Queries from Java | 🔜 Upcoming |
+| 04 | [Library Management System] | HashMap, File I/O, OOP Design | 🔄 In Progress |
+| 05 | [Inventory Tracker] | Collections, Generics, Sorting | 🔜 Upcoming |
+| 06 | [Student Management CRUD] | JDBC, MySQL, SQL Queries from Java | 🔜 Upcoming |
 
 ---
 
@@ -66,9 +66,9 @@ java-mini-projects/
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 07 | [JWT Auth Demo](./03-advanced/jwt-auth-demo/) | Spring Security, JWT, Stateless Auth | 🔜 Upcoming |
-| 08 | [Spring Boot REST API](./03-advanced/spring-boot-rest-api/) | Spring Boot 3.x, REST, JPA, PostgreSQL | 🔜 Upcoming |
-| 09 | [Expense Tracker Fullstack](./03-advanced/expense-tracker-fullstack/) | Spring Boot + React + MySQL + JWT | 🔜 Upcoming |
+| 07 | [JWT Auth Demo] | Spring Security, JWT, Stateless Auth | 🔜 Upcoming |
+| 08 | [Spring Boot REST API] | Spring Boot 3.x, REST, JPA, PostgreSQL | 🔜 Upcoming |
+| 09 | [Expense Tracker Fullstack]| Spring Boot + React + MySQL + JWT | 🔜 Upcoming |
 
 <br>
 

@@ -47,8 +47,8 @@ java-mini-projects/
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
 | 01 | [Calculator](./01-basic/Calculator/) | Classes, Methods, Switch, OOP | ✅ Complete |
-| 02 | [Student Grade Tracker](./01-basic/student-grade-tracker/) | ArrayList, Loops, Scanner, Methods | 🔄 In Progress |
-| 03 | [Bank Account System](./01-basic/bank-account-system/) | Inheritance, Encapsulation, Exception Handling | 🔜 Upcoming |
+| 02 | [Student Grade Tracker](./01-basic/student-grade-tracker/) | ArrayList, Loops, Scanner, Methods | ✅ Complete |
+| 03 | [Bank Account System](./01-basic/bank-account-system/) | Inheritance, Encapsulation, Exception Handling | 🔄 In Progress  |
 
 ---
 
@@ -141,7 +141,7 @@ cd java-mini-projects/01-basic/calculator
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/aarti-gore-07b2202aa](https://linkedin.com/in/aarti-gore-07b2202aa) |
+| 💼 LinkedIn | [linkedin.com/in/gore-aarti](https://linkedin.com/in/ore-aarti) |
 | 🐙 GitHub | [github.com/Aartigore14](https://github.com/Aartigore14) |
 | 💻 LeetCode | [leetcode.com/aartigore](https://leetcode.com/aartigore) |
 | 🏆 HackerRank | [hackerrank.com/profile/aartigore2005](https://hackerrank.com/profile/aartigore2005) |

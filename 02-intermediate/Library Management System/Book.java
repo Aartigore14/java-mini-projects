@@ -6,11 +6,11 @@ public class Book {
     String issuedTo="";
 
     public Book(String bookId, String title, String author) {
-        this.bookId = bookId;
+        this.bookID = bookID;
         this.title = title;
         this.author = author;
-        this.isIssued = false;    // default — not passed as parameter
-        this.issuedTo = "";       // default — not passed as parameter
+        this.isIssued = false;
+        this.issuedTo = "";
     }
 
     public String getBookID() {
@@ -24,7 +24,7 @@ public class Book {
         return author;
     }
 
-    public String getIsIssued() {
+    public boolean getIsIssued() {
         return isIssued;
     }
 
@@ -44,7 +44,7 @@ public class Book {
         this.author = author;
     }
 
-    public void setIsIssued(String isIssued) {
+    public void setIsIssued(boolean isIssued) {
         this.isIssued = isIssued;
     }
 

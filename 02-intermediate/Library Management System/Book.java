@@ -5,7 +5,7 @@ public class Book {
     boolean isIssued = false ;
     String issuedTo="";
 
-    public Book(String bookId, String title, String author) {
+    public Book(String bookID, String title, String author) {
         this.bookID = bookID;
         this.title = title;
         this.author = author;

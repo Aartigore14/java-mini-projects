@@ -46,9 +46,9 @@ java-mini-projects/
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 01 | [Calculator] | Classes, Methods, Switch, OOP | ✅ Complete |
-| 02 | [Student Grade Tracker] | ArrayList, Loops, Scanner, Methods | ✅ Complete |
-| 03 | [Bank Account System]| Inheritance, Encapsulation, Exception Handling | ✅ Complete |
+| 01 | Calculator | Classes, Methods, Switch, OOP | ✅ Complete |
+| 02 | Student Grade Tracker | ArrayList, Loops, Scanner, Methods | ✅ Complete |
+| 03 | Bank Account System | Inheritance, Encapsulation, Exception Handling | ✅ Complete |
 
 ---
 
@@ -56,9 +56,9 @@ java-mini-projects/
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 04 | [Library Management System] | HashMap, File I/O, OOP Design | ✅ Complete |
-| 05 | [Inventory Tracker] | Collections, Generics, Sorting | 🔄 In Progress |
-| 06 | [Student Management CRUD] | JDBC, MySQL, SQL Queries from Java | 🔜 Upcoming |
+| 04 | Library Management System | HashMap, File I/O, OOP Design | ✅ Complete |
+| 05 | Inventory Tracker | Collections, Generics, Sorting | 🔄 In Progress |
+| 06 | Student Management CRUD | JDBC, MySQL, SQL Queries from Java | 🔜 Upcoming |
 
 ---
 
@@ -66,9 +66,9 @@ java-mini-projects/
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 07 | [JWT Auth Demo] | Spring Security, JWT, Stateless Auth | 🔜 Upcoming |
-| 08 | [Spring Boot REST API] | Spring Boot 3.x, REST, JPA, PostgreSQL | 🔜 Upcoming |
-| 09 | [Expense Tracker Fullstack]| Spring Boot + React + MySQL + JWT | 🔜 Upcoming |
+| 07 | JWT Auth Demo | Spring Security, JWT, Stateless Auth | 🔜 Upcoming |
+| 08 | Spring Boot REST API | Spring Boot 3.x, REST, JPA, PostgreSQL | 🔜 Upcoming |
+| 09 | Expense Tracker Fullstack | Spring Boot + React + MySQL + JWT | 🔜 Upcoming |
 
 <br>
 
@@ -152,7 +152,7 @@ cd java-mini-projects/01-basic/calculator
 
 | Repo | Description |
 |------|-------------|
-| [java-practice-sheet](https://github.com/Aartigore14/java-practice-sheet) | DSA patterns and HackerRank solutions |
+| [java-practice-sheet](https://github.com/Aartigore14/java-practice-sheet) | DSA patterns and GeeksforGeek solutions |
 | [smart-parking-system](https://github.com/Aartigore14/smart-parking-system) | Frontend web project — HTML, CSS, JS |
 
 <br>

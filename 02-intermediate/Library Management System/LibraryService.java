@@ -2,70 +2,74 @@ import java.util.HashMap;
 
 public class LibraryService {
 
-    // Store books using bookId as the key
     private HashMap<String, Book> library = new HashMap<>();
 
-    // Add a new book
-    public void addBook(Book book) {
-        library.put(book.getBookID(), book);
+    public void addBook(Book book){
+        library.put(book.getBookID(),book);
         System.out.println("Book added successfully.");
     }
-
-    // Display all books
-    public void displayAllBooks() {
-        if (library.isEmpty()) {
+    public void displayAllBooks(){
+        if (library.isEmpty()){
             System.out.println("No books available.");
             return;
         }
+        for (Book book : library.values()){
+            System.out.println("----------------------------");
+            System.out.println("Book ID : " + book.getBookID());
+            System.out.println("Title   : " + book.getTitle());
+            System.out.println("Author  : " + book.getAuthor());
 
-        for (Book book : library.values()) {
-            System.out.println(book);
+            if (book.getIsIssued()){
+                System.out.println("Status : Issued");
+                System.out.println("Issued To: "+book.getIsIssued());
+            }else {
+                System.out.println("Status : Available");
+            }
         }
     }
 
-    // Search a book by ID
-    public void searchBook(String bookID) {
+    public void searchBook(String bookID){
         Book book = library.get(bookID);
-
-        if (book != null) {
-            System.out.println(book);
-        } else {
+        if (book == null){
             System.out.println("Book not found.");
+        } else {
+            System.out.println("Book Found.");
+            System.out.println("Book ID : " + book.getBookID());
+            System.out.println("Title   : " + book.getTitle());
+            System.out.println("Author  : " + book.getAuthor());
+
+            if (book.getIsIssued()){
+                System.out.println("Status : Issued");
+                System.out.println("Issued To : " + book.getIssuedTo());
+            } else {
+                System.out.println("Status : Available");
+            }
         }
     }
-
-    // Issue a book
-    public void issueBook(String bookID String personName) {
+    public void issueBook(String bookID , String personName){
         Book book = library.get(bookID);
-
-        if (book == null) {
-            System.out.println("Book not found.");
-            return;
-        }
-
-        if (book.isIssued()) {
-            System.out.println("Book is already issued.");
+        if (book.getIsIssued()) {
+            System.out.println("Book is already issued to " + book.getIssuedTo());
         } else {
-            book.setIssued(true);
+            book.setIsIssued(true);
             book.setIssuedTo(personName);
             System.out.println("Book issued successfully to " + personName);
         }
     }
+    public void returnBook(String bookID) {
 
-    // Return a book
-    public void returnBook(String bookId) {
-        Book book = library.get(bookId);
+        Book book = library.get(bookID);
 
         if (book == null) {
             System.out.println("Book not found.");
             return;
         }
 
-        if (!book.isIssued()) {
+        if (!book.getIsIssued()) {
             System.out.println("Book is already available.");
         } else {
-            book.setIssued(false);
-            book.setIssuedTo(null);
+            book.setIsIssued(false);
+            book.setIssuedTo("");
             System.out.println("Book returned successfully.");
         }
     }

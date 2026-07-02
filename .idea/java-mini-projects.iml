@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/.idea/01-basics/Calculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01-basic/BankAccountSystem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01-basic/StudentGradeTracker" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/02-intermediate/Library Management System" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

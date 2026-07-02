@@ -48,7 +48,7 @@ java-mini-projects/
 |---|---------|--------------|--------|
 | 01 | [Calculator] | Classes, Methods, Switch, OOP | ✅ Complete |
 | 02 | [Student Grade Tracker] | ArrayList, Loops, Scanner, Methods | ✅ Complete |
-| 03 | [Bank Account System]| Inheritance, Encapsulation, Exception Handling | ✅ Complete   |
+| 03 | [Bank Account System]| Inheritance, Encapsulation, Exception Handling | ✅ Complete |
 
 ---
 
@@ -56,8 +56,8 @@ java-mini-projects/
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 04 | [Library Management System] | HashMap, File I/O, OOP Design | 🔄 In Progress |
-| 05 | [Inventory Tracker] | Collections, Generics, Sorting | 🔜 Upcoming |
+| 04 | [Library Management System] | HashMap, File I/O, OOP Design | ✅ Complete |
+| 05 | [Inventory Tracker] | Collections, Generics, Sorting | 🔄 In Progress |
 | 06 | [Student Management CRUD] | JDBC, MySQL, SQL Queries from Java | 🔜 Upcoming |
 
 ---
